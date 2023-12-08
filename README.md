@@ -2,10 +2,10 @@
 
 ## Description
 
-Just Another Text Editor (J.A.T.E) is a text editor that stores code snippets or texts you might keep for yourself.
-This project helped me practice making full-stack applications as installable apps.
-Jate helps me store code that I plan to use in all my projects so I can work smarter and not harder!
-From this project, I learned how to structure my code into a server and client format while learning how to cache my application so I can use the app without the internet.
+My motivation for doing this project was to show off my newfound React skills and show that I can make an amazing portfolio.
+I built this portfolio to showcase all of the projects I have created in the past 6 months utilizing different languages in the front and back-end.
+With this portfolio, employers can view all of the different projects that I have created.
+Overall, I was able to learn the core elements to make a front-end application with React.
 
 ## Table of Contents
 
@@ -18,11 +18,9 @@ From this project, I learned how to structure my code into a server and client f
 
 Check out the deployed site here!
 
-[Just Another Text Editor](https://jate-by-zo-olivar.onrender.com)
+[Janus](https://jate-by-zo-olivar.onrender.com)
 
 ## Usage
-
-[Jate-by-zo.webm](https://github.com/Lorenzo-Olivar/jate-by-zo/assets/131014446/7bd14086-c141-40aa-8598-c549542ddd98)
 
 ## Credits
 
