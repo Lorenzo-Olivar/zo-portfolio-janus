@@ -6,11 +6,13 @@ export default function Header() {
     // custom styles
     const styles = {
         header: {
-            background: "#c8d5b9",
+            background: '#c8d5b9',
             fontSize: 20,
+            fontFamily: ['Indie Flower', 'cursive'],
         },
         navbarBrand: {
-            fontSize: 30,
+            fontSize: 40,
+            color: '#1e2f23',
         },
     };
 

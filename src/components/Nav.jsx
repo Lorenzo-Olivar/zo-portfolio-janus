@@ -2,6 +2,9 @@
 // react imports
 import { Link, useLocation } from "react-router-dom";
 
+// style imports
+import '../styles/Nav.css';
+
 // nav
 export default function Nav() {
 
@@ -24,7 +27,7 @@ export default function Nav() {
     // };
 
     return (
-        <ul className="nav nav-underline">
+        <ul className="nav nav-underline d-flex justify-content-evenly">
             <li className="nav-item">
                 <Link to={links.aboutMe} className={currentPage === links.aboutMe ? 'nav-link active' : 'nav-link'}>
                     About Me
