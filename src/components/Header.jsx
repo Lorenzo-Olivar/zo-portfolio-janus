@@ -11,7 +11,7 @@ export default function Header() {
             fontFamily: ['Indie Flower', 'cursive'],
         },
         navbarBrand: {
-            fontSize: 40,
+            fontSize: 35,
             color: '#1e2f23',
         },
     };
@@ -22,7 +22,7 @@ export default function Header() {
             style={styles.header}
         >
             <div className="container-fluid">
-                <span className="navbar-brand" style={styles.navbarBrand}>
+                <span className="navbar-brand mx-5" style={styles.navbarBrand}>
                     Lorenzo Olivar
                 </span>
                 <button

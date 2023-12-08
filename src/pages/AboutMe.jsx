@@ -1,14 +1,12 @@
 export default function AboutMe() {
     return (
-        <div>
-            <h1>About Page</h1>
+        <div className="mx-5">
+            <h2>About Me</h2>
+            <p className="display-6">
+                Hey! My name is Lorenzo Olivar, but you can call me Zo.
+            </p>
             <p>
-                Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-                Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-                mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-                lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-                imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-                in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
+                Based in California, I started my journey as a web developer at the University of California, Berkeley! Although I'm just a beginner, I am excited to have so many years ahead of me to learn, grow, and to be confident as a developer.
             </p>
         </div>
     );
