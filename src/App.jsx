@@ -1,17 +1,22 @@
-import { useState } from 'react'
-import Header from './components/Header'
-import ProjectPage from './components/ProjectPage'
-import Footer from './components/Footer'
-import './App.css'
 
+// react imports
+import { Outlet } from 'react-router-dom';
+
+// header and footer import
+import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
+
+// serves the navbar and pages
 function App() {
   return (
-    <div className='janus-app'>
-      <Header />
-      <ProjectPage /> 
-      <Footer />
-    </div>
-  )
+    <>
+      <Header/>
+      <main className="mx-3">
+        <Outlet/>
+      </main>
+      <Footer/>
+    </>
+  );
 }
 
-export default App
+export default App;
