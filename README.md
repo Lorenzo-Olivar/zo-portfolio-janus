@@ -18,7 +18,7 @@ Overall, I was able to learn the core elements to make a front-end application w
 
 Check out the deployed site here!
 
-[Janus](https://jate-by-zo-olivar.onrender.com)
+[Janus](https://zo-portfolio-janus.netlify.app/)
 
 ## Usage
 
