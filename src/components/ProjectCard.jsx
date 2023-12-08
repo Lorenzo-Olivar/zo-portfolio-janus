@@ -1,3 +1,3 @@
 import { useState } from "react";
 
-export default function ProjectCard() {}
+export default function ProjectCard(props) {}
